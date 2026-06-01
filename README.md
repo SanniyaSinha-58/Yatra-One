@@ -28,6 +28,14 @@ OBJECTIVES:
 • Support local communities and guides
 • Enhance digital tourism experiences
 
+PROJECT DEMONSTRATION:
+
+Watch the project explanation and demonstration here:
+
+https://youtu.be/wQDPm7PKFsI
+
+This video presents the problem statement, proposed solution, key features, and the overall approach of Yatra One developed during Smart India Hackathon 2025.
+
 TEAM PROJECT:
 This Project was developed collaboratively as part of Smart India Hackathon 2025.
 
